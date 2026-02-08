@@ -2,6 +2,8 @@
 
 # Templates, Examples and Problems Of Data Structure and Algorithm
 
+📚 **[中文算法模板速查手册 (Chinese Algorithm Quick Reference)](./算法模板速查手册.md)** - 完整的中文算法模板文档，包含96个算法模板的详细说明和使用指南
+
 # Overview
 This project is orgnaized by the following structure
 > **[src](https://github.com/liupengsay/PyIsTheBestLang/tree/main/src)** serve as template records for training
